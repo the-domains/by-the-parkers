@@ -1,0 +1,28 @@
+name: By The Parkers
+favicon: null
+layout_spectrum: 0.2951489561237395
+typography_spectrum: 0.4043836435303092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9294330761767924
+  lightness: 0.699893961660564
+  saturation: 0.27486044983379543
+  rhythmicContrast: 0.8564688893966377
+purpose: []
